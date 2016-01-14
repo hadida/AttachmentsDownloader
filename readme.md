@@ -1,5 +1,5 @@
 # Attachments downloader for Microsoft Exchange as Windows service 
- 	I would like to introduce one my small project. May be at once it will be usefull for some body. At one day I have got task to find solution for
+ I  would like to introduce one my small project. May be at once it will be usefull for some body. At one day I have got task to find solution for
  downloading attachments in certain mailbox and then put these file to folder in fileserver. Name folder has to depend on processing date. Processing
  these files from atach greatly affects the business process in company. Therefore this solution has to be reliable and works without any intervation 
  by admins. According to requirements I decide to write application as Windows Service that will be use Exchange Web Services. 
